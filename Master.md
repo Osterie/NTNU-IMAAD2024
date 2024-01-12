@@ -29,8 +29,8 @@ Kan vi derivere med hensyn på x eller y.
 
 ### Eksempler 
 
-f(x,y) = y^2 + x^2 +2*x.
-f(x,y) derivert med hensyn på x = 2*x + 2
+f(x,y) = y^2 + x^2 +2*x.\
+f(x,y) derivert med hensyn på x = 2*x + 2\
 f(x,y) derivert med hensyn på y = 2*y
 
 ### Når kan vi partiell derivere
