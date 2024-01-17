@@ -94,3 +94,9 @@ Det er ikke alltid den partiell deriverte eksisterer. TODO jeg vet ikke helt nå
 
 ## Diskret matematikk
 
+## Regne ut den retningsderiverte
+
+1. Finn gradienten til funksjonen.
+2. Finn lengden til vektoren
+3. blablabla, skal sjå i OneNote so ej ikkje skriv noke feil.
+
