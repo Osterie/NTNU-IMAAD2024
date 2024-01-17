@@ -19,7 +19,7 @@
 
 ### Quick links
 1. [Hvordan partiell derivere](#hvordan-partiell-derivere)
-2. [Eksempler](#eksempler)
+2. [Eksempler](#eksempler) 
 3. [Når kan vi partiell derivere](#når-kan-vi-partiell-derivere)
 
 
