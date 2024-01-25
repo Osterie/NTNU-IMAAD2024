@@ -75,9 +75,6 @@ a = tan^-1(-3*sqrt(10)/10) = 43.5 grader
 b) I hvilken retning minker f fortest mulig?
 
 
-
-
-
 ### Eksempler 
 
 f(x,y) = y^2 + x^2 +2*x.\
@@ -93,6 +90,7 @@ Det er ikke alltid den partiell deriverte eksisterer. TODO jeg vet ikke helt nå
 ## PDE - Partielle differensialligninger
 
 ## Diskret matematikk
+aowduhawihd
 
 ## Regne ut den retningsderiverte
 
