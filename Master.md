@@ -92,6 +92,10 @@ Det er ikke alltid den partiell deriverte eksisterer. TODO jeg vet ikke helt nå
 ## Diskret matematikk
 aowduhawihd
 
+asfafas
+
+
+
 ## Regne ut den retningsderiverte
 
 1. Finn gradienten til funksjonen.
